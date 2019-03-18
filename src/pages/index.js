@@ -123,7 +123,7 @@ class Index extends React.Component {
             </header>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="https://l.messenger.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1QZZwXlHYEk8mB05QSANUWQQfOhl0_YPf&h=AT3YPrdIw6o-nKDzJqgPsiO9VzKd4M5XuwylSHR7CdMiMZ_BBlgg8gsZQgviwE-tQp3OYhq9NABAcSGEBOcKxOrA5JW73r3UL2HaEydEXAHLyF1anQvCZIokdc_cvE7jYvtL0192XRc" className="button special">Download</Link></li>
+                <li><Link to="https://docs.google.com/uc?export=download&id=1QZZwXlHYEk8mB05QSANUWQQfOhl0_YPf" className="button special">Download</Link></li>
               </ul>
             </footer>
           </section>
