@@ -3,9 +3,10 @@ import Helmet from 'react-helmet'
 import { Link } from 'gatsby'
 import Layout from '../components/layout'
 import HeaderTeam from '../components/HeaderTeam'
-import pic03 from '../assets/images/pic03.jpg'
-import pic02 from '../assets/images/pic02.jpg'
-
+import pic07 from '../assets/images/pic07.png'
+import pic08 from '../assets/images/pic08.png'
+import pic09 from '../assets/images/pic09.png'
+import pic10 from '../assets/images/pic10.png'
 
 
 class Team extends React.Component {
@@ -25,7 +26,7 @@ class Team extends React.Component {
                   <h2>Alex - Developer</h2>
                 </header>
                 </div> 
-               <span className="image"><img src={pic03} alt="" /></span>
+               <span className="image"><img src={pic10} alt="" /></span>
             </div>
           </section>
 
@@ -36,7 +37,7 @@ class Team extends React.Component {
                   <h2>Fraser - Developer</h2>
                 </header>
                 </div> 
-               <span className="image"><img src={pic02} alt="" /></span>
+               <span className="image"><img src={pic09} alt="" /></span>
             </div>
           </section>
 
@@ -47,7 +48,7 @@ class Team extends React.Component {
                   <h2>Nathan - Developer/Designer</h2>
                 </header>
                 </div> 
-               <span className="image"><img src={pic03} alt="" /></span>
+               <span className="image"><img src={pic07} alt="" /></span>
             </div>
           </section>
 
@@ -58,7 +59,7 @@ class Team extends React.Component {
                   <h2>Sean - Developer/Designer</h2>
                 </header>
                 </div> 
-               <span className="image"><img src={pic02} alt="" /></span>
+               <span className="image"><img src={pic08} alt="" /></span>
             </div>
           </section>
 
@@ -69,7 +70,7 @@ class Team extends React.Component {
                   <h2>Sebastian - Developer</h2>
                 </header>
                 </div> 
-               <span className="image"><img src={pic03} alt="" /></span>
+               <span className="image"><img src={pic10} alt="" /></span>
             </div>
           </section>
 
@@ -80,7 +81,7 @@ class Team extends React.Component {
                   <h2>Zac - Designer/Marketing</h2>
                 </header>
                 </div> 
-               <span className="image"><img src={pic02} alt="" /></span>
+               <span className="image"><img src={pic10} alt="" /></span>
             </div>
 
           <footer id="content" className="main special">
