@@ -7,7 +7,7 @@ import pic07 from '../assets/images/pic07.png'
 import pic08 from '../assets/images/pic08.png'
 import pic09 from '../assets/images/pic09.png'
 import pic10 from '../assets/images/pic10.png'
-
+import pic02 from '../assets/images/pic02.jpg'
 
 class Team extends React.Component {
   render() {
@@ -26,7 +26,7 @@ class Team extends React.Component {
                   <h2>Alex - Developer</h2>
                 </header>
                 </div> 
-               <span className="image"><img src={pic10} alt="" /></span>
+               <span className="image"><img src={pic02} alt="" /></span>
             </div>
           </section>
 
@@ -68,9 +68,9 @@ class Team extends React.Component {
               <div className="content">
                 <header className="major">
                   <h2>Sebastian - Developer</h2>
-                </header>
+                </header> 
                 </div> 
-               <span className="image"><img src={pic10} alt="" /></span>
+               <span className="image"><img src={pic02} alt="" /></span>
             </div>
           </section>
 
